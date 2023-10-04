@@ -1,0 +1,12 @@
+﻿{
+  "BotToken": "",
+  "MemberRoleID": "",
+  "AdminRoleID": "",
+  "WelcomeDM": "Welcome to the server... (replace this message with a custom one)",
+  "PublicWelcomeChannelID": "",
+  "PublicWelcomeMessage": "Welcome {member} to the server! :tada: (Replace this message with a custom one. Use {member} to mention the user",
+  "PterodactylAPIAdress": "",
+  "PterodactylAPIKey": "",
+  "PterodactylServerID": ""
+
+}
