@@ -1,7 +1,7 @@
 
 # EasyMinecraftWhitelistDiscordBot
 
-A simple open source Discord bot that makes whitelisting users on private SMPs increadibly easy by automatically ganting them a role, sending them a DM, welcoming them, and of course whitelisting them on the server by integrating with the Pterodactyl Panel API. 
+A simple open source Discord bot that makes whitelisting users on Minecraft servers increadibly easy by automatically ganting them a role, sending them a DM, welcoming them, and of course whitelisting them on the server by integrating with the Pterodactyl Panel API. 
 
 ## Installation
 
